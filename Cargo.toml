@@ -1,0 +1,11 @@
+[package]
+name = "laptop-support-library"
+version = "1.0.0"
+authors = ["petitstrawberry <petitstrawberry.dev@gmail.com>"]
+edition = "2021"
+license-file = "LICENSE"
+description = "A library for laptop-support protocol"
+repository = "https://github.com/petitstrawberry/laptop-support-library"
+readme = "README.md"
+
+[dependencies]

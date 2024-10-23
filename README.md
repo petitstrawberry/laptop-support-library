@@ -1,2 +1,2 @@
 # laptop-support-library
-Library for laptop-support protocol
+Library for laptop-support protocol 
