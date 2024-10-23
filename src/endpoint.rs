@@ -1,4 +1,8 @@
-use std::{io::{Read, Write}, os::unix::net::UnixStream, u8};
+use std::{
+    io::{Read, Write},
+    os::unix::net::UnixStream,
+    u8,
+};
 
 pub trait Endpoint {
     fn get_socket_path(&self) -> String;
